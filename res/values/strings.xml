@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kalkulator</string>
+    <string name="action_settings">Settings</string>
+    <string name="dodaj">+</string>
+    <string name="odejmnij">-</string>
+    <string name="iloczyn">*</string>
+    <string name="iloraz">/</string>
+    <string name="Czysc">C</string>
+    <string name="Wyjscie">Koniec</string>
+    
+    
+    
+    
+    
+</resources>
